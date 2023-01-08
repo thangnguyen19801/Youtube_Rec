@@ -24,8 +24,6 @@ python train.py
 - Languages : python 
 - Frameworks : tensorflow 2
 
-## Developer
-- Hyeji Oh
 
 
 ## References
